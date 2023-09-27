@@ -39,4 +39,4 @@ document.querySelector(".searchbar").addEventListener("keyup", function(event){
     }
 });
 
-weather.fetchWeather("Gandhinagar");
+weather.fetchWeather("Durgapur");
